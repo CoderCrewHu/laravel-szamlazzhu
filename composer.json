@@ -40,7 +40,7 @@
     }
   },
   "suggest": {
-    "illuminate/validation": "5.7.*"
+    "illuminate/validation": "^6"
   },
   "extra": {
     "branch-alias": {
