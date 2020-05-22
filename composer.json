@@ -40,7 +40,7 @@
     }
   },
   "suggest": {
-    "illuminate/validation": "^6"
+    "illuminate/validation": "^7"
   },
   "extra": {
     "laravel": {
