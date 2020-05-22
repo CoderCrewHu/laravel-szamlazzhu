@@ -19,7 +19,7 @@
   "require": {
     "php": ">=7.2.5",
     "guzzlehttp/guzzle": "^6",
-    "laravel/framework": "^7",
+    "laravel/framework": "7.*",
     "nathanmac/parser": "4.*",
     "orchestra/testbench": "4.*"
   },
@@ -40,7 +40,7 @@
     }
   },
   "suggest": {
-    "illuminate/validation": "^7"
+    "illuminate/validation": "^6"
   },
   "extra": {
     "laravel": {
