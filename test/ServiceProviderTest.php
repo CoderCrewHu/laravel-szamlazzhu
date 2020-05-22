@@ -1,6 +1,5 @@
 <?php
 
-
 namespace SzuniSoft\SzamlazzHu\Tests;
 
 use SzuniSoft\SzamlazzHu\Client\Client;
