@@ -17,9 +17,9 @@
     }
   ],
   "require": {
-    "php": ">=7.2.5",
+    "php": ">=7.3",
     "guzzlehttp/guzzle": "^6.3",
-    "laravel/framework": "7.*",
+    "laravel/framework": "8.*",
     "illuminate/support": "^5.0|^6.0|^7.0|^8.0",
     "nathanmac/parser": "dev-master",
     "orchestra/testbench": "5.*"
@@ -41,7 +41,7 @@
     }
   },
   "suggest": {
-    "illuminate/validation": "^7"
+    "illuminate/validation": "^8"
   },
   "extra": {
     "laravel": {
